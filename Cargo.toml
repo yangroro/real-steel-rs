@@ -1,0 +1,7 @@
+[package]
+name = "real-steel-rs"
+version = "0.1.0"
+authors = ["yangroro <yang@heechan.kr>"]
+
+[dependencies]
+slack = "0.21.0"
